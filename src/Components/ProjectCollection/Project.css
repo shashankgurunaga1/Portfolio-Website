@@ -1,0 +1,29 @@
+.Project h1{
+    font-size: 60px;
+    text-align: center;
+    
+
+}
+.card1 {
+    height: 170px;
+    width:340px;
+    display:inline-block;
+    margin:30px;
+}
+
+a img {
+    height:150px;
+    width:320px;
+}
+a:hover img {
+    transform: scale(1.2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.Project h3{
+    text-align: center;
+}
+.Project b{
+    color:hotpink;
+    
+}

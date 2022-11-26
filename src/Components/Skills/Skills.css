@@ -1,0 +1,17 @@
+.Skills h1{
+    font-size: 60px;
+    text-align: center;
+    
+
+}
+.card2 {
+    height: 60px;
+    width:60px;
+    display:inline-block;
+    margin:10px;
+}
+
+.card2 img {
+    height:60px;
+    width:60px;
+}
