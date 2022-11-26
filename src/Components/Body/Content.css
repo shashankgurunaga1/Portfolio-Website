@@ -1,12 +1,7 @@
-.Content  h1{
-    font-size: 70px;
-}
-.Content h2{
-    font-size: 45px;
-}
+
 .Content img{
-    height: 470px;
-    width: 470px;
+    height: 270px;
+    width: 270px;
     float:right;
 }
 .Content h3{

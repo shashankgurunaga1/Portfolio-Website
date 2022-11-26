@@ -2,7 +2,7 @@ import React from 'react'
 import './Navbar.css'
 const Navbar = (props) =>{
   return (
-    <nav className="navbar py-4 navbar-expand-lg navbar-dark bg-primary ">
+    <nav className="navbar py-3 navbar-expand-lg navbar-dark bg-primary ">
   <div className="container-fluid">
     
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
