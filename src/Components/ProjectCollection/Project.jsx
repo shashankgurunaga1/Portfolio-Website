@@ -24,7 +24,7 @@ const Project =()=> {
       <p align='center'>
        <div className='card1' >
         
-       <a href="http://65.0.104.120/" rel="nofollow">
+       <a href="#" rel="nofollow">
   <img src={PROJ2} alt="News Source portal" />
     </a>
        </div>
