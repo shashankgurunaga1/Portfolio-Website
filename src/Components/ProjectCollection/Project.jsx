@@ -41,7 +41,7 @@ const Project =()=> {
     </a>
     </div>
        <div className='card1' >
-       <a href="https://shashankgurunaga1.github.io/weatherdome/" rel="nofollow">
+       <a href="https://shashankgurunaga1.github.io/WeatherDome/" rel="nofollow">
   <img src={PROJ5} alt="Weatherdome-Website for checking the weather of a city" />
     </a>
        </div>
