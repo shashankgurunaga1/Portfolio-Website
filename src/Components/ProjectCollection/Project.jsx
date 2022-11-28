@@ -29,7 +29,7 @@ const Project =()=> {
     </a>
        </div>
        <div className='card1' >
-       <a href="http://65.0.104.120:8080/" rel="nofollow">
+       <a href="#" rel="nofollow">
   <img src={PROJ4} alt="Website for startup made using Flask and MySQL" />
     </a>
     </div>
