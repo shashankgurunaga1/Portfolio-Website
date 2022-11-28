@@ -6,6 +6,7 @@ import PROJ3 from '../../Assets/AgriculturalSolutionsApp.jpg'
 import PROJ4 from '../../Assets/Startupweb.jpg'
 import PROJ5 from '../../Assets/weatherdome.jpg'
 import PROJ6 from '../../Assets/bmicalculatorapp.jpg'
+import PROJ7 from '../../Assets/quiz-app-12th.jpg'
 const Project =()=> {
   return (
     <>
@@ -22,6 +23,12 @@ const Project =()=> {
       <br/>
       
       <p align='center'>
+    <div className='card1' >
+        
+       <a href="https://github.com/shashankgurunaga1/quiz-app-12th" rel="nofollow">
+  <img src={PROJ7} alt="Quiz application developed using Python,Python(tkinter),MySQL" />
+    </a>
+       </div>
        <div className='card1' >
         
        <a href="#" rel="nofollow">
