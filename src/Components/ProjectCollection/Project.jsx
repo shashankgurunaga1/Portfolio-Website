@@ -18,7 +18,7 @@ const Project =()=> {
       
        <h1> MY PROJECTS </h1>
        
-       <h3>Source Code and Description is present in <a href="https://github.com/shashankgurunaga1"><b>Github</b></a></h3>
+       <h3>Source Code and Description are present in <a href="https://github.com/shashankgurunaga1"><b>Github</b></a></h3>
       <br/>
       
       <p align='center'>
