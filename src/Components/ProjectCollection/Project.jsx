@@ -4,7 +4,7 @@ import PROJ1 from '../../Assets/clock.jpg'
 import PROJ2 from '../../Assets/multil.jpg'
 import PROJ3 from '../../Assets/AgriculturalSolutionsApp.jpg'
 import PROJ4 from '../../Assets/Startupweb.jpg'
-import PROJ5 from '../../Assets/weatherdome.jpg'
+import PROJ5 from '../../Assets/Weather_Dome.jpg'
 import PROJ6 from '../../Assets/bmicalculatorapp.jpg'
 import PROJ7 from '../../Assets/quiz-app-12th.jpg'
 const Project =()=> {
