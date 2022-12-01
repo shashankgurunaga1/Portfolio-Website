@@ -7,6 +7,7 @@ import PROJ4 from '../../Assets/Startupweb.jpg'
 import PROJ5 from '../../Assets/Weather_Dome.jpg'
 import PROJ6 from '../../Assets/bmicalculatorapp.jpg'
 import PROJ7 from '../../Assets/quiz-app-12th.jpg'
+import PROJ8 from '../../Assets/gitfetch.jpg'
 const Project =()=> {
   return (
     <>
@@ -43,6 +44,11 @@ const Project =()=> {
        <div className='card1' >
        <a href="https://shashankgurunaga1.github.io/WeatherDome/" rel="nofollow">
   <img src={PROJ5} alt="Weatherdome-Website for checking the weather of a city" />
+    </a>
+       </div>
+<div className='card1' >
+       <a href="https://git-fetch-shashankgurunaga.vercel.app/" rel="nofollow">
+  <img src={PROJ8} alt="GitFetch website for fetching github repositories for entered username" />
     </a>
        </div>
        <div className='card1' >
