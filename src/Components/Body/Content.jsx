@@ -14,7 +14,7 @@ const Content=()=>{
       
       <h1><b>Hi! I am Shashank Gurunaga</b></h1>
       <br/>
-      <h2>I am currently studying at University Visvesvaraya College of Engineering</h2>
+      <h4>I am currently studying at University Visvesvaraya College of Engineering</h4>
       <br/>
       <br/>
       <h3>I am exploring full stack development in both Web Dev and App Dev  and am a Computer Science student</h3>
