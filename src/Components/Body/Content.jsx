@@ -17,7 +17,7 @@ const Content=()=>{
       <h2>I am currently studying at University Visvesvaraya College of Engineering</h2>
       <br/>
       <br/>
-      <h4>I am exploring full stack development in  Web Development and am a Computer Science student</h4>
+      <h4>I am exploring full stack development in  both Web Dev and App Dev and am a Computer Science student</h4>
       
       </p>
     </div>
