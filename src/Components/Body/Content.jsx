@@ -12,7 +12,7 @@ const Content=()=>{
       <br/>
       
       
-      <h1><b>Hi! I am Shashank Gurunaga</b></h1>
+      <h1><span className="wrap"><b>Hi! I am Shashank Gurunaga</b></span></h1>
       <br/>
       <h2>I am currently studying at University Visvesvaraya College of Engineering</h2>
       <br/>
